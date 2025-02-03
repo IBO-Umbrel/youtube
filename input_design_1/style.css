@@ -1,0 +1,45 @@
+
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+:root
+{
+    --input-width: 210px;
+}
+
+
+.input_container
+{
+    width: var(--input-width);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, rgb(227, 213, 255), rgb(255, 231, 231));
+    border-radius: 30px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
+}
+.input_container input
+{
+    width: calc(var(--input-width) - 25px);
+    height: 40px;
+    border: none;
+    outline: none;
+    caret-color: rgb(225, 81, 0);
+    background-color: #fff;
+    border-radius: 30px;
+    padding-left: 15px;
+    letter-spacing: 0.8px;
+    color: rgb(19, 19, 19);
+    font-size: 13.4px;
+}
