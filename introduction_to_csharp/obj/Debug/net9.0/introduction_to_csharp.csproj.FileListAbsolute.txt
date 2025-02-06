@@ -1,0 +1,15 @@
+C:\work_space\Projects\youtube\introduction_to_csharp\bin\Debug\net9.0\introduction_to_csharp.exe
+C:\work_space\Projects\youtube\introduction_to_csharp\bin\Debug\net9.0\introduction_to_csharp.deps.json
+C:\work_space\Projects\youtube\introduction_to_csharp\bin\Debug\net9.0\introduction_to_csharp.runtimeconfig.json
+C:\work_space\Projects\youtube\introduction_to_csharp\bin\Debug\net9.0\introduction_to_csharp.dll
+C:\work_space\Projects\youtube\introduction_to_csharp\bin\Debug\net9.0\introduction_to_csharp.pdb
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.AssemblyInfoInputs.cache
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.AssemblyInfo.cs
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.csproj.CoreCompileInputs.cache
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.sourcelink.json
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.dll
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\refint\introduction_to_csharp.dll
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.pdb
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\introduction_to_csharp.genruntimeconfig.cache
+C:\work_space\Projects\youtube\introduction_to_csharp\obj\Debug\net9.0\ref\introduction_to_csharp.dll
